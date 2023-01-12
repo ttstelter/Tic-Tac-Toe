@@ -1,3 +1,7 @@
+/*
+ Code reused and reimplemeneted from react tutorial
+ https://reactjs.org/tutorial/tutorial.html
+*/
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
